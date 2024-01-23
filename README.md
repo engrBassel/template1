@@ -1,2 +1,3 @@
-# template1
-This repo contains the first template in front-end developer roadmap on elzero.org using HTML and CSS
+# Template One
+- This repo contains the first template in front-end developer roadmap on elzero.org
+- Using HTML and CSS
